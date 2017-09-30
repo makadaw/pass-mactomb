@@ -1,5 +1,5 @@
 PROG ?= mtomb
-PREFIX ?= /usr
+PREFIX ?= /usr/local
 DESTDIR ?=
 LIBDIR ?= $(PREFIX)/lib
 SYSTEM_EXTENSION_DIR ?= $(LIBDIR)/password-store/extensions
