@@ -22,13 +22,5 @@ cd pass-mactomb
 sudo make install
 ```
 
-**brew**
-`pass-mactomb` is available in brew with custom tap.
-```sh
-brew tap makadaw/homebrew-mactomb
-brew update
-brew install pass-mactomb
-```
-
 ## Contribution
 Feedback, contributors, pull requests are all very welcome.
